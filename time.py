@@ -6,4 +6,5 @@ print ("Это я svs придумал суперпрогу времени!!!")
 print(time.time()-a)
 
 #bvfbg
+#bvfbg
 
